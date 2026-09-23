@@ -1,0 +1,799 @@
+[
+ {
+  "id": 1,
+  "name": "Tramín červený 2025",
+  "price": 180,
+  "type": "Polosuché",
+  "img": "/files/product1/orez4/1949-tr_19_.jpg",
+  "big": "/files/product1/nahled3/1949-tr_19_.jpg",
+  "desc": "Má medově zlatavou barvu s vysoce elegantní vůni a chuti čajové růže, koření, medu, hrozinky, tropického a kompotovaného ovoce. Můžeme ho podávat k silně kořeněným pokrmům asijské kuchyně, případně ke sladkým úpravám masa a předkrmům. Pije se jako aperitiv.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2025"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ],
+   [
+    "Zbytkový cukr",
+    "12 g/l"
+   ],
+   [
+    "Alkohol",
+    "13,2 % obj"
+   ],
+   [
+    "Kyseliny",
+    "6 g/l"
+   ]
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Ryzlink vlašský 2025",
+  "price": 170,
+  "type": "Suché",
+  "img": "/files/product3/orez4/1951-rr_19_.jpg",
+  "big": "/files/product3/nahled3/1951-rr_19_.jpg",
+  "desc": "Světle-zeleno-žlutá barva s vůní zeleného jablka, chuť je plná s výraznými kyselinami k lehkým pokrmům a paštikám.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2025"
+   ],
+   [
+    "Zbytkový cukr",
+    "4,6g/l"
+   ],
+   [
+    "Kyseliny",
+    "6,1 g/l"
+   ],
+   [
+    "Alkohol",
+    "12.9% obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Sylvánské zelené Laurinka 2024 limited wine",
+  "price": 160,
+  "type": "Polosladké",
+  "img": "/files/product4/orez4/1952-sy_19_.jpg",
+  "big": "/files/product4/nahled3/1952-sy_19_.jpg",
+  "desc": "Víno má žlutozelenou barvu s pikantní vůní travnatých tónů. Chuť vína je sladší, plná, extraktivní, mírně kořenitá, s mírnou kyselinou. Doporučujeme k drůbežím masům, králíkům, smetanovým omáčkám a rybám.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2024"
+   ],
+   [
+    "Zbytkový cukr",
+    "21 g/l"
+   ],
+   [
+    "Kyseliny",
+    "6 g/l"
+   ],
+   [
+    "Alkohol",
+    "12 % obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Rulandské bílé 2025",
+  "price": 170,
+  "type": "Suché",
+  "img": "/files/product5/orez4/1953-rb_19_.jpg",
+  "big": "/files/product5/nahled3/1953-rb_19_.jpg",
+  "desc": "U tohoto vína je barva zlatavě zelenožlutá s neutrální vůní do mandlí a chlebovinky. Chuť je plná ohnivosti, extraktivní s vyšší kyselinkou. Je vhodné k masům, pečenému kapru,pstruhu k bažantovi, divočině a sýrům s bílou plísní.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2025"
+   ],
+   [
+    "Zbytkový cukr",
+    "6,4 g/l"
+   ],
+   [
+    "Kyseliny",
+    "6,2 g/l"
+   ],
+   [
+    "Alkohol",
+    "12 % obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Ryzlink rýnský 2025",
+  "price": 170,
+  "type": "Suché",
+  "img": "/files/product6/orez4/1954-rr_19_.jpg",
+  "big": "/files/product6/nahled3/1954-rr_19_.jpg",
+  "desc": "Světle žlutozelená barva s vůní lipového květu. Někdy muškátová, broskvová nebo jako luční kvítí.V chuti je peprné kořenité s pikantní kyselinkou. Odrůda je považována za nejkvalitnější odrůdu vinohradnických oblastí vhodné k tučnějším masitým pokrmům, uzené zabijačce.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2025"
+   ],
+   [
+    "Zbytkový cukr",
+    "5.5g/l"
+   ],
+   [
+    "Kyseliny",
+    "6,5 g/l"
+   ],
+   [
+    "Alkohol",
+    "12,6 % obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 7,
+  "name": "Chardonnay 2024",
+  "price": 160,
+  "type": "Suché",
+  "img": "/files/product7/orez4/1955-cha_19_.jpg",
+  "big": "/files/product7/nahled3/1955-cha_19_.jpg",
+  "desc": "Barva je světle žlutá s vůní ovocných tónů jablka v chuti připomíná lískový ořech nebo banán. Patří mezi nejoblíbenější odrůdy. Víno je vhodné k delšímu zrání v láhvi. Vhodné k upraveným hovězím,vepřovým a drůbežím masům. Vyzrálé víno k bažantovi, divočině. Vína s vyšší kyselostí taktéž k ústřicím.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2024"
+   ],
+   [
+    "Zbytkový cukr",
+    "4,6 g/l"
+   ],
+   [
+    "Kyseliny",
+    "6 g/l"
+   ],
+   [
+    "Alkohol",
+    "13,6 % obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 8,
+  "name": "Solaris 2025",
+  "price": 180,
+  "type": "Polosuché",
+  "img": "/files/product8/orez4/1956-so_19_.jpg",
+  "big": "/files/product8/nahled3/1956-so_19_.jpg",
+  "desc": "Žluto zelená barva. Dodává vína plná, vysoké kvality, často se zbytkovým cukrem s ovocnějším a květinovým tónem do muškátu. Jiné prameny uvádí, že v chuti bývají tóny připomínajícími ananas a lískový oříšek. Může být použit, jako velmi raný a sladký stolní hrozen.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2025"
+   ],
+   [
+    "Zbytkový cukr",
+    "10,5 g/l"
+   ],
+   [
+    "Kyseliny",
+    "6 g/l"
+   ],
+   [
+    "Alkohol",
+    "14 % obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 9,
+  "name": "Rulandské šedé 2025",
+  "price": 170,
+  "type": "Suché",
+  "img": "/files/product9/orez4/1957-rs_19_.jpg",
+  "big": "/files/product9/nahled3/1957-rs_19_.jpg",
+  "desc": "Barva: zlato-žlutá barva. Vůně: jemná odrůdová až neutrální do chlebnatých tónů. V chuti plná, kořenitá a extraktivní. Víno je velmi vhodné do archivu. Vhodné k pokrmům maso,ryby uzený losos hutné polévky.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2025"
+   ],
+   [
+    "Zbytkový cukr",
+    "7,2g/l"
+   ],
+   [
+    "Kyseliny",
+    "6,2 g/l"
+   ],
+   [
+    "Alkohol",
+    "14 % obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 10,
+  "name": "Pálava 2025",
+  "price": 190,
+  "type": "Polosladké",
+  "img": "/files/product10/orez4/1958-pa_19_.jpg",
+  "big": "/files/product10/nahled3/1958-pa_19_.jpg",
+  "desc": "Víno zlatožluté barvy, ve vůni a chuti můžeme hledat koření, muškát, vanilku, mandarinky. Podávání k silněji kořeněným jídlům, k paštikám, ke sladkým úpravám masa,a jemným ovčím či kozím sýrům.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2025"
+   ],
+   [
+    "Zbytkový cukr",
+    "25 g/l"
+   ],
+   [
+    "Kyseliny",
+    "6,3 g/l"
+   ],
+   [
+    "Alkohol",
+    "12,8 % obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 11,
+  "name": "Hibernal 2025",
+  "price": 190,
+  "type": "Polosuché",
+  "img": "/files/product11/orez4/1959-hi_19_.jpg",
+  "big": "/files/product11/nahled3/1959-hi_19_.jpg",
+  "desc": "Je extravagantní s větší kyselinou ve vůni a chuti můžeme hledat černý rybíz, angrešt, ananas, broskev, grapefruit. Víno je vhodné k archivaci.Podávat k předkrmům, rybám nebo k mořským plodům.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2025"
+   ],
+   [
+    "Zbytkový cukr",
+    "8,3 g/l"
+   ],
+   [
+    "Kyseliny",
+    "6 g/l"
+   ],
+   [
+    "Alkohol",
+    "12,5 % obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 12,
+  "name": "Sauvignon 2025",
+  "price": 170,
+  "type": "Polosuché",
+  "img": "/files/product12/orez4/1960-sg_19_.jpg",
+  "big": "/files/product12/nahled3/1960-sg_19_.jpg",
+  "desc": "Barva vína je světle zeleno-žlutá s výraznou broskvovou nebo kopřivovou vůní, i po černém rybízu.V chuti je plně kořenité plné, ovlivněné vůní.Vhodné k pokrmům:Maso,výraznější úprava uzených ryby, drůbež, pečený bažant, krocan.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2024"
+   ],
+   [
+    "Zbytkový cukr",
+    "8 g/l"
+   ],
+   [
+    "Kyseliny",
+    "6,1 g/l"
+   ],
+   [
+    "Alkohol",
+    "12,8 % obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 16,
+  "name": "Modrý Portugal 2024",
+  "price": 170,
+  "type": "Suché",
+  "img": "/files/product16/orez4/1964-mp_19_.jpg",
+  "big": "/files/product16/nahled3/1964-mp_19_.jpg",
+  "desc": "Barva je rubínová do jemné květinové vůně. Chuť je příjemná, sametová, víno je lehčí s nižším obsahem kyselin, jemně natrpklé světle červené barvy.Doporučujeme k rybám drůbežímu masu, bifteku, bažantu, kachně, huse nebo k zajíci na divoko.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2023"
+   ],
+   [
+    "Zbytkový cukr",
+    "-- g/l"
+   ],
+   [
+    "Kyseliny",
+    "-- g/l"
+   ],
+   [
+    "Alkohol",
+    "12,5 % obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 17,
+  "name": "Cabernet Moravia 2024",
+  "price": 170,
+  "type": "Polosuché",
+  "img": "/files/product17/orez4/1965-cm_19_.jpg",
+  "big": "/files/product17/nahled3/1965-cm_19_.jpg",
+  "desc": "Víno poskytuje kvalitní,tmavou granátovou barvu, je plné a po odbourání kyseliny jablečné je harmonické s jemným kabernetovým aroma a specifickou chutí. Zráním vína se stupňuje jeho plnost i harmonie. Je vhodné i pro školení v dubových sudech typu barrique. Doporučujeme-Tmavá nebo uzená masa, tvrdé sýry.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2024"
+   ],
+   [
+    "Zbytkový cukr",
+    "2,5g/l"
+   ],
+   [
+    "Kyseliny",
+    "5 g/l"
+   ],
+   [
+    "Alkohol",
+    "12,5% obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 18,
+  "name": "Cabernet Sauvignon 2024",
+  "price": 170,
+  "type": "Suché",
+  "img": "/files/product18/orez4/1967-cabernet.jpg",
+  "big": "/files/product18/nahled3/1967-cabernet.jpg",
+  "desc": "Barva je intenzivně červená do vůně černého rybízu. Chuť je travnatá, drsnější, zráním nabývá plnnosti a odrůdového charakteru vína. Pro své pozdní zrání je odrůda určena do nejteplejších částí vinařské oblasti Morava slovácká v oblasti Mutěnic. Vhodné k tmavému masu,zvěřině,tvrdé sýry a kaviár.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2024"
+   ],
+   [
+    "Zbytkový cukr",
+    "1,3 g/l"
+   ],
+   [
+    "Kyseliny",
+    "4,9 g/l"
+   ],
+   [
+    "Alkohol",
+    "12,1% obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 19,
+  "name": "BIO Autentický Alibernet 2024 colletion limited wine",
+  "price": 190,
+  "type": "Suché",
+  "img": "/files/product19/orez4/1966-alibernet_19_.jpg",
+  "big": "/files/product19/nahled3/1966-alibernet_19_.jpg",
+  "desc": "Barva je velmi intenzivní tmavě červená. Vůně černého rybízu v chuťi drsnější, travnatá. Má-li být dosahováno vysoce jakostních aromatických tmavě červených vín, musí se využít nejlepší polohy a půdy. Vhodné k pokrmům jako u Cabernetu Sauvignonu.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2024"
+   ],
+   [
+    "Zbytkový cukr",
+    "0,4 g/l"
+   ],
+   [
+    "Kyseliny",
+    "5,3 g/l"
+   ],
+   [
+    "Alkohol",
+    "14,1% obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 20,
+  "name": "Frizantéčko 2025 jemně perlivé víno.",
+  "price": 180,
+  "type": "Polosladké",
+  "img": "/files/product20/orez4/1968-frizante.jpg",
+  "big": "/files/product20/nahled3/1968-frizante.jpg",
+  "desc": "Jemně perlivé víno. Perlení způsobuje oxid uhličitý, který se přidává do vína při lahvování.",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "2025"
+   ],
+   [
+    "Zbytkový cukr",
+    "25g/l"
+   ],
+   [
+    "Kyseliny",
+    "7 g/l"
+   ],
+   [
+    "Alkohol",
+    "12% obj"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ },
+ {
+  "id": 21,
+  "name": "Domácí vinný mošt z révy vinné",
+  "price": 130,
+  "type": "Polosladké",
+  "img": "/files/product21/orez4/1969-most.jpg",
+  "big": "/files/product21/nahled3/1969-most.jpg",
+  "desc": "",
+  "params": []
+ },
+ {
+  "id": 22,
+  "name": "Archivní víno",
+  "price": 600,
+  "type": "Suché",
+  "img": "/files/product22/orez4/1970-archiv.jpg",
+  "big": "/files/product22/nahled3/1970-archiv.jpg",
+  "desc": "Nabízíme bílé archivní víno:Ryzlink vlašský 2005 PS polosuché, Chardonnay 2007 PS suché, Chardonnay 2009 VZH polosuché, Rulandské šedé 2007 VZH polosuché, Rulandské šedé 2008 PS suché, Tramín červený  2009 VZH polosuché, Tramín červený 2008 PS suché, Sauvignon 2007 VZH polosuché, Sauvignon 2010 PS suché, Ryzlink rýnský 2008 PS suché,  Ryzlink rýnský 2009 PS polosuchéNabízíme červené archivní víno:Svatovavřinecké 2008 suché, Dornfelder 2016 suché, Cabernet Moravia 2005 polosuché, Zweigeltrebe barrique 2014 suché, Domací Vermut 1998 sladké",
+  "params": [
+   [
+    "Vinařská oblast",
+    "Morava"
+   ],
+   [
+    "Vinařská podoblast",
+    "Slovácko"
+   ],
+   [
+    "Vinařská obec",
+    "Mutěnice"
+   ],
+   [
+    "Trať",
+    "Mutěnická hora"
+   ],
+   [
+    "Ročník",
+    "1998-2018"
+   ],
+   [
+    "Objem",
+    "0,75 l"
+   ]
+  ]
+ }
+]

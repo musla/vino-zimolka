@@ -1,0 +1,11 @@
+{
+  "name": "vino-zimolka",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Moderní web Vinného sklepa Michal Zimolka, Mutěnice",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs && npx --yes serve dist -l 4321"
+  }
+}
