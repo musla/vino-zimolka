@@ -282,6 +282,9 @@ strong, b { font-weight: 700; color: var(--brown-900); }
 .figure { position: relative; margin: 0; }
 .figure img { width: 100%; border-radius: var(--radius); box-shadow: var(--shadow); aspect-ratio: 4 / 3; object-fit: cover; }
 .figure--tall img { aspect-ratio: 4 / 5; }
+.figure--wide img { aspect-ratio: 3 / 2; }
+.figure--wide .figure-badge { bottom: -34px; }
+.figure--wide { margin-bottom: 34px; }
 .figure::before {
   content: ""; position: absolute; inset: 22px -22px -22px 22px; border: 1px solid var(--gold); border-radius: var(--radius); z-index: -1;
 }

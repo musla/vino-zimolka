@@ -46,7 +46,7 @@ ${extraHead}
 
 <header class="site-header">
   <div class="container header-inner">
-    <a class="brand" href="/" aria-label="${SITE.name} – úvod"><img src="/images/logo2017.png" alt="Víno Zimolka" width="236" height="236"></a>
+    <a class="brand" href="/" aria-label="${SITE.name} – úvod"><img src="/images/logo.png" alt="Víno Zimolka" width="472" height="472"></a>
     <nav class="nav" id="nav" aria-label="Hlavní navigace">
       <ul>${nav(path)}</ul>
       <div class="nav-cta">
@@ -66,7 +66,7 @@ ${body}
   <div class="container">
     <div class="footer-grid">
       <div class="footer-brand">
-        <img src="/images/logo2017.png" alt="" width="236" height="236" loading="lazy">
+        <img src="/images/logo.png" alt="" width="472" height="472" loading="lazy">
         <p class="script">„Kdo nenávidí víno hřeší“</p>
         <h4>Kontakt</h4>
         <address class="footer-contact">

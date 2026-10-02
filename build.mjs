@@ -28,7 +28,7 @@ const wines = readJson("src/data/wines.json").map((w) => ({ ...w, slug: slugify(
 const ageGate = `
 <dialog class="age-gate" aria-labelledby="age-title">
   <div class="age-gate-inner">
-    <img src="/images/logo2017.png" alt="" width="236" height="236">
+    <img src="/images/logo.png" alt="" width="472" height="472">
     <h2 id="age-title">Pokračováním potvrzuji, že jsem starší 18 let.</h2>
     <div class="btn-row">
       <a class="btn btn--outline" href="/">Odejít</a>

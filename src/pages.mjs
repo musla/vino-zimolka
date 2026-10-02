@@ -46,7 +46,7 @@ const home = {
       <p>Společně s nejbližší rodinou hospodaří na cca 2,5 ha vinic rozloženou ve třech mutěnských tratích, kde je jejich snahou vyprodukovat vína v té nejvyšší možné kvalitě. K vinohradu a vínu přistupujeme s tou nejvyšší možnou péčí a láskou už od ranných počátků výsadby vinic.</p>
       <a class="btn btn--dark" href="/vinarstvi/">Více o vinařství ${icon.arrow}</a>
     </div>
-    <figure class="figure figure--tall reveal reveal-delay-2">
+    <figure class="figure figure--wide reveal reveal-delay-2">
       <img src="${F}22n.jpg" alt="Michal a Standa Zimolkovi ve sklepě" loading="lazy">
       <figcaption class="figure-badge"><strong>Otec &amp; syn</strong>dva vinaři, jeden sklep</figcaption>
     </figure>
