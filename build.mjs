@@ -177,4 +177,13 @@ const urls = pages.filter((p) => !p.file).map((p) => `  <url><loc>${SITE.url}${p
 writeFileSync(join(out, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`);
 writeFileSync(join(out, "robots.txt"), `User-agent: *\nAllow: /\nSitemap: ${SITE.url}/sitemap.xml\n`);
 
+// Apache: vlastní 404 a přesměrování starých odkazů katalogu (/katalog-vin/?id=1) na nové adresy
+const wineRedirects = wines
+  .map((w) => `RewriteCond %{QUERY_STRING} (^|&)id=${w.id}(&|$)\nRewriteRule ^katalog-vin/?$ /katalog-vin/${w.slug}/? [R=301,L]`)
+  .join("\n");
+writeFileSync(
+  join(out, ".htaccess"),
+  `DirectoryIndex index.html\nErrorDocument 404 /404.html\n\n<IfModule mod_rewrite.c>\nRewriteEngine On\n${wineRedirects}\n</IfModule>\n`
+);
+
 console.log(`✓ ${pages.length} stránek → dist/`);
