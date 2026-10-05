@@ -7,6 +7,8 @@ npm run build   # vygeneruje dist/
 npm run dev     # build + lokální server na http://localhost:4321
 ```
 
+Pravidla pro úpravy (lidi i AI agenty) jsou v [AGENTS.md](AGENTS.md). Push na `main` web rovnou nasadí přes FTP.
+
 ## Struktura
 
 - `src/pages.mjs` – obsah hlavních stránek (Úvod, Vinařství, Sklep a degustace, Ubytování, Kontakt, Rezervace, Objednávka)
@@ -17,6 +19,11 @@ npm run dev     # build + lokální server na http://localhost:4321
 - `assets/` – obrázky převzaté z původního webu (cesty zůstávají stejné jako na vinozimolka.cz)
 
 URL adresy stránek odpovídají původnímu webu (`/vinarstvi/`, `/katalog-vin/`, `/rezervace/` …).
+
+## Obrázky
+
+Nové fotky přidejte do `assets/` a spusťte `python3 tools/optimize-images.py` (zmenší, překomprimuje
+a vytvoří náhledy pro galerii).
 
 ## Formuláře
 

@@ -1,4 +1,13 @@
 // Sdílené pomůcky pro šablony: ikony, fotomřížky, callouty…
+import { existsSync } from "node:fs";
+
+const ASSETS = new URL("../assets/", import.meta.url);
+
+/** Náhled fotky z thumbs/ (tools/optimize-images.py), jinak původní soubor. */
+export const thumb = (src) => {
+  const t = src.replace(/\/([^/]+)$/, "/thumbs/$1");
+  return existsSync(new URL("." + t, ASSETS)) ? t : src;
+};
 
 export const SITE = {
   name: "Vinný sklep Michal Zimolka",
@@ -56,7 +65,7 @@ export const photos = (group, items, cls = "") => `
   ${items
     .map(
       ([src, cap = ""]) => `<a href="${src}" data-lightbox="${group}" data-caption="${esc(cap)}">
-    <img src="${src}" alt="${esc(cap)}" loading="lazy" width="800" height="533">
+    <img src="${thumb(src)}" alt="${esc(cap)}" loading="lazy" width="480" height="320">
     ${cap ? `<figcaption>${esc(cap)}</figcaption>` : ""}
   </a>`
     )
